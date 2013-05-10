@@ -2,9 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{923F7994-5D23-4544-A351-D87E3F017B86}"
-	ProjectSection(SolutionItems) = preProject
-		index.html = index.html
-	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "cashier", ".", "{477B12A7-A024-44AD-A478-2453D7B9AC22}"
 	ProjectSection(WebsiteProperties) = preProject
